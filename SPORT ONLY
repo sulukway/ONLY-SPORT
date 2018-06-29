@@ -1,181 +1,361 @@
 #EXTM3U
-#EXTINF:-1, Suluk_Way™ ** SONY ESPN HD 
+
+#EXTINF:-1,Suluk® → SONY ESPN HD 
+
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** SONY SIX HD
+
+#EXTINF:-1,Suluk® → SONY SIX HD
+
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** SONY TEN 1 HD
+
+#EXTINF:-1,Suluk® → SONY TEN 1 HD
+
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** SONY TEN 2 HD
+
+#EXTINF:-1,Suluk® → SONY TEN 2 HD
+
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** SONY TEN 3 HD
+
+#EXTINF:-1,Suluk® → SONY TEN 3 HD
+
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1, Suluk_Way™ ** ASTRO ARENA
+
+
+#EXTINF:-1,Suluk® → ASTRO ARENA
+
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS HD
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS HD
+
 http://clientportal.link:80/live/Petko/123456/13515.ts
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS 1
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS 1
+
 http://62.210.113.222:80/live?channelId=275&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS 2
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS 2
+
 http://62.210.113.222:80/live?channelId=276&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS 3
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS 3
+
 http://62.210.113.222:80/live?channelId=277&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS 4
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS 4
+
 http://62.210.113.222:80/live?channelId=278&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS 5
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS 5
+
 http://62.210.113.222:80/live?channelId=279&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKYNET SPORTS 6
+
+#EXTINF:-1,Suluk® → SKYNET SPORTS 6
+
 http://62.210.113.222:80/live?channelId=280&uid=36&deviceUser=shep&devicePass=shep
 
-#EXTINF:-1, Suluk_Way™ ** TRUE SPORT 1 HD
+
+
+#EXTINF:-1,Suluk® → TRUE SPORT 1 HD
+
 http://main-a.for-our.info:8081/tv11/sporthd1/chunks.m3u8
-#EXTINF:-1, Suluk_Way™ ** TRUE SPORT 2 HD
+
+#EXTINF:-1,Suluk® → TRUE SPORT 2 HD
+
 http://main-a.for-our.info:8081/tv11/sporthd2/chunks.m3u8
-#EXTINF:-1, Suluk_Way™ ** TRUE SPORT 3 HD
+
+#EXTINF:-1,Suluk® → TRUE SPORT 3 HD
+
 http://main-a.for-our.info:8081/tv11/sporthd3/chunks.m3u8
-#EXTINF:-1, Suluk_Way™ ** TRUE SPORT 4 HD
+
+#EXTINF:-1,Suluk® → TRUE SPORT 4 HD
+
 http://128.199.155.69:2200/HD2live-S3/hd-tsport4.stream/chunklist.m3u8
-#EXTINF:-1, Suluk_Way™ ** BEIN 1 TH
+
+#EXTINF:-1,Suluk® → BEIN 1 TH
+
 http://main-a.for-our.info:8081/tv11/bein1/chunks.m3u8
-#EXTINF:-1, Suluk_Way™ ** BEIN 2 TH
+
+#EXTINF:-1,Suluk® → BEIN 2 TH
+
 http://191.96.38.54:19358/footballfuck/0x777_beinsporthd2_720p/chunklist.m3u8
-#EXTINF:-1, Suluk_Way™ ** BEIN 3 TH
+
+#EXTINF:-1,Suluk® → BEIN 3 TH
+
 http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
-#EXTINF:-1, Suluk_Way™ ** BEIN 4 TH
+
+#EXTINF:-1,Suluk® → BEIN 4 TH
+
 http://191.96.38.54:19358/footballfuck/0x777_beinsporthd4_720p/playlist.m3u8
-#EXTINF:-1, Suluk_Way™ ** FIGHT SPORT TH
+
+#EXTINF:-1,Suluk® → FIGHT SPORT TH
+
 http://iptvthai.webhop.biz:443/hd-fightsports_720/index.m3u8?
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT1 TH
+
+#EXTINF:-1,Suluk® → FOX SPORT1 TH
+
 http://main-a.for-our.info:8081/tv11/fox1/chunks.m3u8
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT2 TH
+
+#EXTINF:-1,Suluk® → FOX SPORT2 TH
+
 http://iptvthai.webhop.biz:443/sd-foxsports2_480/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** FOX SPORT3 TH
+
+#EXTINF:-1,Suluk® → FOX SPORT3 TH
+
 http://iptvthai.webhop.biz:443/sd-foxsports3_480/index.m3u8
 
-#EXTINF:-1, Suluk_Way™ ** CCTV5 HD
+
+
+#EXTINF:-1,Suluk® → CCTV5 HD
+
 http://111.20.33.69/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** CCTV5+HD
+
+#EXTINF:-1,Suluk® → CCTV5+HD
+
 http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8
-#EXTINF:-1, Suluk_Way™ ** CCTV5+HD
+
+#EXTINF:-1,Suluk® → CCTV5+HD
+
 http://111.20.33.69/PLTV/88888888/224/3221225761/index.m3u8
 
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 1 HD
+
+
+#EXTINF:-1,Suluk® → BeIN Sports 1 HD
+
 http://62.210.215.132:80/live?channelId=597&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 2 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 2 HD
+
 http://62.210.215.132:80/live?channelId=598&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 3 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 3 HD
+
 http://62.210.215.132:80/live?channelId=599&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 4 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 4 HD
+
 http://62.210.215.132:80/live?channelId=600&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 5 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 5 HD
+
 http://62.210.215.132:80/live?channelId=601&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 6 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 6 HD
+
 http://62.210.215.132:80/live?channelId=602&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 7 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 7 HD
+
 http://62.210.215.132:80/live?channelId=603&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 8 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 8 HD
+
 http://62.210.215.132:80/live?channelId=604&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 9 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 9 HD
+
 http://62.210.215.132:80/live?channelId=605&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 10 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 10 HD
+
 http://62.210.215.132:80/live?channelId=606&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 11 HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 11 HD
+
 http://62.210.215.132:80/live?channelId=607&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 1
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 1
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3069.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 2
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 2
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3070.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 3
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 3
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3071.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 4
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 4
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3072.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 5
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 5
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3073.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 6
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 6
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3076.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 7
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 7
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3077.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 8
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 8
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3078.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 9
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 9
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3079.ts
-#EXTINF:-1, Suluk_Way™ ** Beout Q HD SPORTS 10
+
+#EXTINF:-1,Suluk® → Beout Q HD SPORTS 10
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3080.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 11 EN HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 11 EN HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/7.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 12 EN HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 12 EN HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/6.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 13 FR HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 13 FR HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/5.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 14 FR HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 14 FR HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/4.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 15 ES HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 15 ES HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 16 FR HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 16 FR HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/2.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN SPORTS 17 ES HD
+
+#EXTINF:-1,Suluk® → BeIN SPORTS 17 ES HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/2917.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 1+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 1+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3108.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 2+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 2+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3109.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 3+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 3+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3110.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 4+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 4+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3111.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 5+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 5+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3112.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 6+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 6+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3113.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 7+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 7+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3114.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 8+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 8+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3115.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 9+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 9+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3116.ts
-#EXTINF:-1, Suluk_Way™ ** BeIN Sports 10+ HD
+
+#EXTINF:-1,Suluk® → BeIN Sports 10+ HD
+
 http://www.zeebra.tv:8000/live/Next88/Next88/3117.ts
 
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS MAIN EVENT HD
+
+
+#EXTINF:-1,Suluk® → SKY SPORTS MAIN EVENT HD
+
 http://62.210.113.222:80/live?channelId=1316&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS CRICKET HD
+
+#EXTINF:-1,Suluk® → SKY SPORTS CRICKET HD
+
 http://62.210.113.222:80/live?channelId=1317&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS ACTION HD
+
+#EXTINF:-1,Suluk® → SKY SPORTS ACTION HD
+
 http://62.210.113.222:80/live?channelId=1318&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS GOLF HD
+
+#EXTINF:-1,Suluk® → SKY SPORTS GOLF HD
+
 http://62.210.113.222:80/live?channelId=1319&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS PREMIER LEAGUE HD
+
+#EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD
+
 http://62.210.113.222:80/live?channelId=1320&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS FOOTBALL HD
+
+#EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL HD
+
 http://62.210.113.222:80/live?channelId=1321&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SKY SPORTS ARENA HD
+
+#EXTINF:-1,Suluk® → SKY SPORTS ARENA HD
+
 http://62.210.113.222:80/live?channelId=1322&uid=36&deviceUser=shep&devicePass=shep
 
-#EXTINF:-1, Suluk_Way™ ** SPORTS NET ONE HD
+
+
+#EXTINF:-1,Suluk® → SPORTS NET ONE HD
+
 http://62.210.113.222:80/live?channelId=118&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** SPORTS NET 360 HD
+
+#EXTINF:-1,Suluk® → SPORTS NET 360 HD
+
 http://62.210.113.222:80/live?channelId=131&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** TSN 1
+
+#EXTINF:-1,Suluk® → TSN 1
+
 http://163.172.104.251:80/live?channelId=214&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** TSN 2
+
+#EXTINF:-1,Suluk® → TSN 2
+
 http://163.172.104.251:80/live?channelId=215&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** TSN 3
+
+#EXTINF:-1,Suluk® → TSN 3
+
 http://163.172.104.251:80/live?channelId=216&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** TSN 4
+
+#EXTINF:-1,Suluk® → TSN 4
+
 http://163.172.104.251:80/live?channelId=217&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** TSN 5
+
+#EXTINF:-1,Suluk® → TSN 5
+
 http://163.172.104.251:80/live?channelId=218&uid=36&deviceUser=shep&devicePass=shep
 
-#EXTINF:-1, Suluk_Way™ ** Eurosport 1 FHD
+
+
+#EXTINF:-1,Suluk® → Eurosport 1 FHD
+
 http://88.99.34.120:80/live?channelId=870&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** Eurosport 2 FHD
+
+#EXTINF:-1,Suluk® → Eurosport 2 FHD
+
 http://88.99.34.120:80/live?channelId=873&uid=36&deviceUser=shep&devicePass=shep
 
-#EXTINF:-1, Suluk_Way™ ** BT SPORTS HD 1
+
+
+#EXTINF:-1,Suluk® → BT SPORTS HD 1
+
 http://163.172.104.251:80/live?channelId=1703&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BT SPORTS HD 2
+
+#EXTINF:-1,Suluk® → BT SPORTS HD 2
+
 http://deanbab1.ddns.net:80/live?channelId=1716&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BT SPORTS HD 3
+
+#EXTINF:-1,Suluk® → BT SPORTS HD 3
+
 http://163.172.107.251:80/live?channelId=1721&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1, Suluk_Way™ ** BT SPORTS ESPN HD
+
+#EXTINF:-1,Suluk® → BT SPORTS ESPN HD
+
 http://163.172.107.251:80/live?channelId=1731&uid=36&deviceUser=shep&devicePass=shep
