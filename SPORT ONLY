@@ -10,6 +10,30 @@ http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3910.m3u8
 http://61.58.60.230:9000/live/75.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 2 HD
 http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD
+http://62.210.113.222:80/live?channelId=277&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD
+http://62.210.113.222:80/live?channelId=278&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD
+http://62.210.113.222:80/live?channelId=279&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 4 HD
+http://62.210.113.222:80/live?channelId=280&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 5 HD
+http://62.210.113.222:80/live?channelId=281&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 6 HD
+http://62.210.113.222:80/live?channelId=282&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 7 HD
+http://62.210.113.222:80/live?channelId=283&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 8 HD
+http://62.210.113.222:80/live?channelId=284&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 9 HD
+http://62.210.113.222:80/live?channelId=285&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 10 HD
+http://62.210.113.222:80/live?channelId=286&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 11 HD
+http://62.210.113.222:80/live?channelId=287&uid=36&deviceUser=shep&devicePass=shep
+#EXTINF:-1,Suluk® → BEIN SPORTS 12 HD
+http://62.210.113.222:80/live?channelId=288&uid=36&deviceUser=shep&devicePass=shep
 
 #EXTINF:-1,Suluk® → HBO HD
 http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/4085.m3u8
@@ -39,31 +63,6 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 
 #EXTINF:-1,Suluk® → ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD
-http://62.210.113.222:80/live?channelId=277&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD
-http://62.210.113.222:80/live?channelId=278&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD
-http://62.210.113.222:80/live?channelId=279&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 4 HD
-http://62.210.113.222:80/live?channelId=280&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 5 HD
-http://62.210.113.222:80/live?channelId=281&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 6 HD
-http://62.210.113.222:80/live?channelId=282&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 7 HD
-http://62.210.113.222:80/live?channelId=283&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 8 HD
-http://62.210.113.222:80/live?channelId=284&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 9 HD
-http://62.210.113.222:80/live?channelId=285&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 10 HD
-http://62.210.113.222:80/live?channelId=286&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 11 HD
-http://62.210.113.222:80/live?channelId=287&uid=36&deviceUser=shep&devicePass=shep
-#EXTINF:-1,Suluk® → BEIN SPORTS 12 HD
-http://62.210.113.222:80/live?channelId=288&uid=36&deviceUser=shep&devicePass=shep
 
 #EXTINF:-1,Suluk® → Disney Chanel
 http://62.210.215.132:80/live?channelId=597&uid=36&deviceUser=shep&devicePass=shep
