@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, == SULUK 4K ==
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 #EXTINF:-1,Suluk® → SporTV 1 HD
 http://br1.e-tv.xyz:8081/live/LIKEAPPDOMINGO/NBKi0RzhpU/3909.m3u8
 #EXTINF:-1,Suluk® → SporTV 2 HD
