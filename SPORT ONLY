@@ -2,6 +2,12 @@
 
 #EXTINF:-1, == SULUK SPORTS ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
+http://50.7.92.2:8278/bein1_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD TH
+http://50.7.92.2:8278/bein2_pat/playlist.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
+http://50.7.92.2:8278/bein3_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → SKYNET HD
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
@@ -10,12 +16,6 @@ http://61.58.60.230:9000/live/75.m3u8
 http://61.58.60.230:9000/live/102.m3u8
 #EXTINF:-1, Suluk - ELEVEN SPORTS 4 HD
 http://145.129.238.137:7000/play/a00i
-#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
-http://50.7.92.2:8278/bein1_pat/playlist.m3u8
-#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD TH
-http://50.7.92.2:8278/bein2_pat/playlist.m3u8
-#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
-http://50.7.92.2:8278/bein3_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 #EXTINF:-1,Suluk® → YES SPORT_1 FHD
