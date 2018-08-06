@@ -2,12 +2,6 @@
 
 #EXTINF:-1, == SULUK SPORTS ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
-#EXTINF:-1,Suluk® → BEIN SPORTS 1 HD TH
-http://50.7.92.2:8278/bein1_pat/playlist.m3u8
-#EXTINF:-1,Suluk® → BEIN SPORTS 2 HD TH
-http://50.7.92.2:8278/bein2_pat/playlist.m3u8
-#EXTINF:-1,Suluk® → BEIN SPORTS 3 HD TH
-http://50.7.92.2:8278/bein3_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → SKYNET HD
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
