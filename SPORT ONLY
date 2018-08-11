@@ -36,30 +36,48 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
 #EXTINF:-1,Suluk® → SONY TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1,Suluk® → SKY SPORT 1 4K
-http://cdnv.cli.tn/iptv/ch922?code=610116485444847
-#EXTINF:-1,Suluk® → SKY SPORT 2 4K
-http://cdnv.cli.tn/iptv/ch937?code=610116485444847
-#EXTINF:-1,Suluk® → SKY SPORT 3 4K
-http://cdnv.cli.tn/iptv/ch914?code=610116485444847
-#EXTINF:-1,Suluk® → SKY SPORT 4 4K
-http://cdnv.cli.tn/iptv/ch915?code=610116485444847
-#EXTINF:-1,Suluk® → SKY SPORT 5 4K
-http://cdnv.cli.tn/iptv/ch916?code=610116485444847
-#EXTINF:-1,Suluk® → SPORT MIX 4K
-http://cdnv.cli.tn/iptv/ch931?code=610116485444847
-#EXTINF:-1,Suluk® → SKY SPORTS 4K CRICKET
-http://vapi.vaders.tv/play/2479.m3u8?token=eyJ1c2VybmFtZSI6ImVsYW1hcnJqIiwicGFzc3dvcmQiOiJsYWtlcnMzMiJ9
-#EXTINF:-1,Suluk® → SKY SPORTS HD
-http://62.210.78.84:25461/live/i1MrIHuov2/wHmvmBEs1T/3.ts
+#EXTINF:-1,Suluk® → SKY SPORT ACTION
+http://62.210.99.158:80/live?channelId=119&uid=2716&deviceMac=00:1A:79:3C:CC:75
+#EXTINF:-1,Suluk® → SKY SPORT F1
+http://62.210.99.158:80/live?channelId=135&uid=2716&deviceMac=00:1A:79:3C:CC:75
+#EXTINF:-1,Suluk® → SKY SPORT ARENA
+http://62.210.99.158:80/live?channelId=121&uid=2716&deviceMac=00:1A:79:3C:CC:75
+#EXTINF:-1,Suluk® → SKY SPORT FOOTBALL
+http://62.210.99.158:80/live?channelId=125&uid=2716&deviceMac=00:1A:79:3C:CC:75
+#EXTINF:-1,Suluk® → SKY SPORT MAIN
+http://62.210.99.158:80/live?channelId=129&uid=2716&deviceMac=00:1A:79:3C:CC:75
+#EXTINF:-1,Suluk® → SKY SPORT PL
+http://62.210.99.158:80/live?channelId=133&uid=2716&deviceMac=00:1A:79:3C:CC:75
+
+#EXTINF:-1,Suluk® → BT Sport 1 SD
+http://62.210.214.28:80/live?channelId=140&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,Suluk® → BT Sport 1 HD
-http://cdnv.cli.tn/iptv/ch1828?code=610116485444847
+http://62.210.214.28:80/live?channelId=141&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport 2 SD
+http://62.210.214.28:80/live?channelId=142&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,Suluk® → BT Sport 2 HD
-http://cdnv.cli.tn/iptv/ch1829?code=610116485444847
-#EXTINF:-1,Suluk® → BT Sport Extra HD
-http://cdnv.cli.tn/iptv/ch1830?code=610116485444847  #EXTINF:1.06812,SkyFootball
-#EXTINF:-1,Suluk® → BT Sport ESPN FHD
-http://62.210.214.28:80/live?channelId=146&uid=2454&deviceMac=00:1A:79:3C:C9:29
+http://62.210.214.28:80/live?channelId=143&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport 3 SD
+http://62.210.214.28:80/live?channelId=144&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport ESPN SD
+http://62.210.214.28:80/live?channelId=146&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=1732&deviceMac=00:1A:79:3C:C0:90
+
 #EXTINF:-1,Suluk® → BEIN France 1
 http://163.172.105.25:80/live?channelId=175&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1,Suluk® → BEIN France 2
