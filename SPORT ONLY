@@ -12,10 +12,18 @@ http://1.53.204.63:8889/udp/225.1.1.189:30120
 http://1.53.204.63:8889/udp/225.1.1.190:30120
 #EXTINF:-1,Suluk® → HTV THE THAO
 http://1.53.204.63:8889/udp/225.1.1.165:30120
+#EXTINF:-1,Suluk® → PPTV HD
+http://103.246.16.248:9981/stream/channelid/2122275590?ticket=cfc9ba711772f01d22307ed3e0b6aaf08204a84b&profile=pass
 #EXTINF:-1,Suluk® → STAR SPORT SELECT 1
 http://54.36.61.6:8000/live/zee18.com/Cricket_247/2.ts
 #EXTINF:-1,Suluk® → STAR SPORT SELECT 2
 http://54.36.61.6:8000/live/StarSports1/2DyM51/2.ts
+#EXTINF:-1,Suluk® → MYTV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+#EXTINF:-1,Suluk® → CTN
+http://103.242.13.90:5555/udp/239.4.1.57:10000
+#EXTINF:-1,Suluk® → CNC
+http://103.242.13.90:5555/udp/239.4.1.55:10000
 #EXTINF:-1,Suluk® → SKYNET HD
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
