@@ -2,7 +2,6 @@
 
 #EXTINF:-1, == SULUK SPORTS ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
-
 #EXTINF:-1,Suluk® → HTV7 HD
 http://1.53.204.63:8889/udp/225.1.1.191:30120
 #EXTINF:-1,Suluk® → HTV7 HD
@@ -13,6 +12,10 @@ http://1.53.204.63:8889/udp/225.1.1.189:30120
 http://1.53.204.63:8889/udp/225.1.1.190:30120
 #EXTINF:-1,Suluk® → HTV THE THAO
 http://1.53.204.63:8889/udp/225.1.1.165:30120
+#EXTINF:-1,Suluk® → STAR SPORT SELECT 1
+http://54.36.61.6:8000/live/zee18.com/Cricket_247/2.ts
+#EXTINF:-1,Suluk® → STAR SPORT SELECT 2
+http://54.36.61.6:8000/live/StarSports1/2DyM51/2.ts
 #EXTINF:-1,Suluk® → SKYNET HD
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
@@ -59,7 +62,12 @@ http://62.210.99.158:80/live?channelId=125&uid=2716&deviceMac=00:1A:79:3C:CC:75
 http://62.210.99.158:80/live?channelId=129&uid=2716&deviceMac=00:1A:79:3C:CC:75
 #EXTINF:-1,Suluk® → SKY SPORT PL
 http://62.210.99.158:80/live?channelId=133&uid=2716&deviceMac=00:1A:79:3C:CC:75
-
+#EXTINF:-1,Suluk® → ASSP1
+http://183.88.85.173:9981/stream/channelid/2069286798
+#EXTINF:-1,Suluk® → ASSP2
+http://183.88.85.173:9981/stream/channelid/407580676
+#EXTINF:-1,Suluk® → ASSP3
+http://183.88.85.173:9981/stream/channelid/459391936
 #EXTINF:-1,Suluk® → BT Sport 1 SD
 http://62.210.214.28:80/live?channelId=140&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,Suluk® → BT Sport 1 HD
@@ -88,7 +96,20 @@ http://62.210.214.28:80/live?channelId=151&uid=1732&deviceMac=00:1A:79:3C:C0:90
 http://62.210.214.28:80/live?channelId=152&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,Suluk® → BT Sport Extra 6
 http://62.210.214.28:80/live?channelId=153&uid=1732&deviceMac=00:1A:79:3C:C0:90
-
+#EXTINF:-1,Suluk® → SPORTS NET 360 HD 
+http://163.172.15.141:9732/live?channelId=222&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → SPORTS NET EAST HD 
+http://163.172.15.141:9732/live?channelId=223&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → SPORTS NET ONE HD 
+http://163.172.15.141:9732/live?channelId=224&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → SPORTS NET ONTARIO HD 
+http://163.172.15.141:9732/live?channelId=225&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → SPORTS NET PACIFIC HD 
+http://163.172.15.141:9732/live?channelId=226&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → SPORTS NET WEST HD
+http://163.172.15.141:9732/live?channelId=227&uid=1732&deviceMac=00:1A:79:3C:C0:90
+#EXTINF:-1,Suluk® → SPORTS NET WORLD HD
+http://163.172.15.141:9732/live?channelId=228&uid=1732&deviceMac=00:1A:79:3C:C0:90
 #EXTINF:-1,Suluk® → BEIN France 1
 http://163.172.105.25:80/live?channelId=175&uid=2454&deviceMac=00:1A:79:3C:C9:29
 #EXTINF:-1,Suluk® → BEIN France 2
