@@ -3,15 +3,17 @@
 #EXTINF:-1, == SULUK SPORTS ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 #EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/3240.m3u8
+http://145.239.1.103:8000/live/Engin/Ozturk/24621.ts
 #EXTINF:-1,Suluk® → PREMIER SPORT HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/3240.m3u8
+http://145.239.1.103:8000/live/Engin/Ozturk/24609.ts
 #EXTINF:-1,Suluk® → SKY SPORTS ACTION HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/2757.m3u8
 #EXTINF:-1,Suluk® → SKY SPORTS MAIN EVENT HD (UK)
-http://5.189.187.55:8000/live/Fadil/skype/480.m3u8
-#EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL (UK)
-http://5.189.187.55:8000/live/Fadil/skype/3281.m3u8
+http://145.239.1.103:8000/live/Engin/Ozturk/24624.ts
+#EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL HD (UK)
+http://145.239.1.103:8000/live/Engin/Ozturk/24618.ts
+#EXTINF:-1,Suluk® → PREMIER SPORTS FHD
+http://145.239.1.103:8000/live/Engin/Ozturk/24579.ts
 #EXTINF:-1,Suluk® → NBC Sport
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
 #EXTINF:-1,Suluk® → PPTV HD
