@@ -2,22 +2,24 @@
 
 #EXTINF:-1, == SULUK SPORTS ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
-#EXTINF:-1,Suluk® → HTV7 HD
-http://1.53.204.63:8889/udp/225.1.1.191:30120
-#EXTINF:-1,Suluk® → HTV7 HD
-http://1.53.204.63:8889/udp/225.1.1.192:30120
-#EXTINF:-1,Suluk® → HTV9 HD
-http://1.53.204.63:8889/udp/225.1.1.189:30120
-#EXTINF:-1,Suluk® → HTV9 HD
-http://1.53.204.63:8889/udp/225.1.1.190:30120
-#EXTINF:-1,Suluk® → HTV THE THAO
-http://1.53.204.63:8889/udp/225.1.1.165:30120
+#EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/3240.m3u8
+#EXTINF:-1,Suluk® → PREMIER SPORT HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/3240.m3u8
+#EXTINF:-1,Suluk® → SKY SPORTS ACTION HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/2757.m3u8
+#EXTINF:-1,Suluk® → SKY SPORTS MAIN EVENT HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/480.m3u8
+#EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL (UK)
+http://5.189.187.55:8000/live/Fadil/skype/3281.m3u8
 #EXTINF:-1,Suluk® → PPTV HD
 http://103.246.16.248:9981/stream/channelid/2122275590?ticket=cfc9ba711772f01d22307ed3e0b6aaf08204a84b&profile=pass
 #EXTINF:-1,Suluk® → STAR SPORT SELECT 1
 http://54.36.61.6:8000/live/zee18.com/Cricket_247/2.ts
-#EXTINF:-1,Suluk® → STAR SPORT SELECT 2
+#EXTINF:-1,Suluk® → STAR SPORT 1
 http://54.36.61.6:8000/live/StarSports1/2DyM51/2.ts
+#EXTINF:-1,Suluk® → STAR SPORT 2 HD
+http://51.15.5.246:8010/Star2/Spo0Rts2/index.m3u8?token=MTM3Ljk3LjEyOS45LXRva2VuMS0xNTMxMTIxMjI2
 #EXTINF:-1,Suluk® → MYTV
 http://103.242.13.90:5555/udp/239.4.1.56:10000
 #EXTINF:-1,Suluk® → CTN
