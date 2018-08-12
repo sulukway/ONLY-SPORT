@@ -24,6 +24,8 @@ http://103.242.13.90:5555/udp/239.4.1.56:10000
 http://103.242.13.90:5555/udp/239.4.1.57:10000
 #EXTINF:-1,Suluk® → CNC
 http://103.242.13.90:5555/udp/239.4.1.55:10000
+#EXTINF:-1,Suluk® → PTV Sport
+http://163.172.86.59:3135/PTV/SPORTS/index.m3u8?token=MTM0MWNjNDlhYTVlNDUzNjcyYTQ0NTkzOTg2OWM5MGI6MTUzMzg5MDU4Mw==
 #EXTINF:-1,Suluk® → SKYNET HD
 http://50.7.92.2:8278/skynethd_pat/playlist.m3u8
 #EXTINF:-1,Suluk® → ELEVEN SPORTS 1 HD
