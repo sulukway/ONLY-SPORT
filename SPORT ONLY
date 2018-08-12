@@ -12,6 +12,8 @@ http://5.189.187.55:8000/live/Fadil/skype/2757.m3u8
 http://5.189.187.55:8000/live/Fadil/skype/480.m3u8
 #EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL (UK)
 http://5.189.187.55:8000/live/Fadil/skype/3281.m3u8
+#EXTINF:-1,Suluk® → NBC Sport
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
 #EXTINF:-1,Suluk® → PPTV HD
 http://103.246.16.248:9981/stream/channelid/2122275590?ticket=cfc9ba711772f01d22307ed3e0b6aaf08204a84b&profile=pass
 #EXTINF:-1,Suluk® → STAR SPORT SELECT 1
