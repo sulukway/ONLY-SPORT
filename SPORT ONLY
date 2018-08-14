@@ -3,19 +3,29 @@
 #EXTINF:-1, == SULUK SPORTS ==
 https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
 #EXTINF:-1,Suluk® → SKY SPORTS PREMIER LEAGUE HD (UK)
-http://145.239.1.103:8000/live/Engin/Ozturk/24621.ts
+http://topiptv.net:5890/live/fathi/fathi1/4664.ts
 #EXTINF:-1,Suluk® → PREMIER SPORT HD (UK)
-http://145.239.1.103:8000/live/Engin/Ozturk/24609.ts
+http://topiptv.net:5890/live/fathi/fathi1/3676.ts
 #EXTINF:-1,Suluk® → SKY SPORTS ACTION HD (UK)
 http://5.189.187.55:8000/live/Fadil/skype/2757.m3u8
 #EXTINF:-1,Suluk® → SKY SPORTS MAIN EVENT HD (UK)
-http://145.239.1.103:8000/live/Engin/Ozturk/24624.ts
+http://topiptv.net:5890/live/fathi/fathi1/273.ts
 #EXTINF:-1,Suluk® → SKY SPORTS FOOTBALL HD (UK)
-http://145.239.1.103:8000/live/Engin/Ozturk/24618.ts
-#EXTINF:-1,Suluk® → PREMIER SPORTS FHD
-http://145.239.1.103:8000/live/Engin/Ozturk/24579.ts
+http://topiptv.net:5890/live/fathi/fathi1/273.ts
 #EXTINF:-1,Suluk® → NBC Sport
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.ts
+#EXTINF:-1,Suluk® → BeoutQ SPORTS HD1
+http://topiptv.net:5890/live/fathi/fathi1/11141.ts
+#EXTINF:-1,Suluk® → BeoutQ SPORTS HD2
+http://topiptv.net:5890/live/fathi/fathi1/11142.ts
+#EXTINF:-1,Suluk® → BeoutQ SPORTS HD3
+http://topiptv.net:5890/live/fathi/fathi1/11143.ts
+#EXTINF:-1,Suluk® → BeoutQ SPORTS HD4
+http://topiptv.net:5890/live/fathi/fathi1/11144.ts
+#EXTINF:-1,Suluk® → BeoutQ SPORTS HD5
+http://topiptv.net:5890/live/fathi/fathi1/11145.ts
+#EXTINF:-1,Suluk® → BeoutQ SPORTS HD6
+http://topiptv.net:5890/live/fathi/fathi1/11146.ts
 #EXTINF:-1,Suluk® → PPTV HD
 http://103.246.16.248:9981/stream/channelid/2122275590?ticket=cfc9ba711772f01d22307ed3e0b6aaf08204a84b&profile=pass
 #EXTINF:-1,Suluk® → STAR SPORT SELECT 1
