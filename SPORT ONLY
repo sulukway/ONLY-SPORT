@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",SULUK INTRO
+http://bit.ly/2MMn4Uf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",LIVERPOOL_FC TV
+http://bit.do/SulukLFC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",FOX 1 Thai
+http://183.89.88.79:9981/stream/channelid/654276182
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy9KYkyt/IPTVKu.png" group-title="SULUK IPTV",RCTI
+http://bit.do//RCTI_OKE
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sgwrG2tY/IPTVKu5.png" group-title="CEBONG",UK: Sky Sports News HD
 http://iphdtv.ddns.net:8330/live/yosigc@me.com/0h89d4AtUi/240.ts
