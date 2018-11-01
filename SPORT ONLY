@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",SULUK INTRO
-http://bit.ly/2MMn4Uf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",INTRO UCL
-https://bit.ly/2NUDl5P
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",HBO INDO
+http://iptv.hrnet.id:8888/live/hrnet/hrnet/4.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",CH. MIX (BIG TV)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV",FOX 2
