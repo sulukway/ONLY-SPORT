@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",SULUK INTRO
-https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+http://www.dropbox.com/s/85cv9jpn14qwwi7/Intro%20IPTV.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",HBO INDO
 http://iptv.hrnet.id:8888/live/hrnet/hrnet/4.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV️",CH. MIX (BIG TV)
@@ -11,10 +11,6 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV",RCTI
 http://bit.do//RCTI_OKE
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV",SONY LE PLEX
-http://redflixhosting.services/airtel/at.php?id=http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV",SONY PIX HD
-http://redflixhosting.services/airtel/at.php?id=http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
 
@@ -54,6 +50,23 @@ http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",OSN Sports_HD1
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/1687.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",OSN Sports_HD2
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/1704.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",OSN Sports_HD3
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/1686.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",OSN Sports_HD4
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/1688.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",Super Sports_HD1
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",Super Sports_HD2
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",Super Sports_HD3
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/112.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",Super Sports_HD4
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/113.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/cCXbVByF/L4.png" group-title="SULUK SPORT️",AR:BeINSports_HD1
 http://forinone.org:25461/live/sabri/skype/5805.ts
@@ -199,8 +212,12 @@ http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3795.ts
 http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3796.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="SULUK RELAX",beIN_Movies_3_HD
 http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3797.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="SULUK RELAX",Star Movies HD
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/2392.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="SULUK RELAX",OSN Movies HD
+http://iptv.ndasat.com:88/live/555155895930609/555155895930609/1466.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="SULUK RELAX",Animal Planet.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="SULUK RELAX",Animal Planet
 http://rb-group-server.com:25461/yassine/yassine/4804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/qMvY2SyS/L3.png" group-title="SULUK RELAX",Discovery History
 http://rb-group-server.com:25461/yassine/yassine/4813
