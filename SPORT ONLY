@@ -13,7 +13,6 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_04.m3u8
 http://bit.do//RCTI_OKE
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ042W60/IPTV1.png" group-title="SULUK IPTV",FOX MOVIES [AR]
 http://streaming.i-sat.tv:8081/livestream/fox/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/LX7vd9xZ/L7.png" group-title="INDONESIA️",RCTI HD
